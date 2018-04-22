@@ -6,3 +6,5 @@ var y = 2;
 
 var z = 7;
 
+var zed = 12;
+
