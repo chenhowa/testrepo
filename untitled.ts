@@ -4,5 +4,3 @@ var y = 278;
 
 var y = 2;
 
-var z = 7;
-
