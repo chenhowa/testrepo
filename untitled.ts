@@ -8,3 +8,5 @@ var z = 7;
 
 var zed = 12;
 
+var nonoGoodGood;
+
